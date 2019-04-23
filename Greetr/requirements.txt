@@ -1,0 +1,7 @@
+Requirements.
+Name = Greetr
+When given a first name, last name and optional language, it should generate formal and informal greetings.
+It supports English, Spanish and French
+It is reuseable framework
+Easy to type structure 'G$()'.
+Support JQuery
